@@ -14,5 +14,3 @@ List of Microsoft documents I use during development. Read them before start usi
 [http://www.microsoft.com/whdc/system/pnppwr/powermgmt/PowerCfg.mspx Using PowerCfg to Evaluate System Energy Efficiency]
 
 [http://www.microsoft.com/whdc/system/pnppwr/powermgmt/PMpolicy_Windows.mspx Power Policy Configuration and Deployment in Windows]
-
-© Microsoft Corporation. All rights reserved.
